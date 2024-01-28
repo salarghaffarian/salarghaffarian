@@ -1,4 +1,4 @@
-[![MasterHead](https://eos.com/wp-content/uploads/2020/11/geospatial-data-analysis.jpg)]([https://your-destination-url-here](https://salarghaffarian.github.io/)
+[![MasterHead](https://eos.com/wp-content/uploads/2020/11/geospatial-data-analysis.jpg)]([https://salarghaffarian.github.io])
 
 <h1 align="center">Hi 👋, I'm Salar Ghaffarian.</h1>
 <h3 align="center">A passionate Geospatial Data Scientist From Canada.</h3>
