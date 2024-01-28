@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D4D12AQF8mKpP7InFCA/article-cover_image-shrink_720_1280/0/1698429817201?e=2147483647&v=beta&t=MY5gfxtfxBDpGc3U0yy07DYXdEAgbVC29bF6MMSiMos))](https://salarghaffarian.github.io)
+[![MasterHead](https://eos.com/wp-content/uploads/2020/11/geospatial-data-analysis.jpg)]([https://your-destination-url-here](https://salarghaffarian.github.io/)
+
 <h1 align="center">Hi 👋, I'm Salar Ghaffarian.</h1>
 <h3 align="center">A passionate Geospatial Data Scientist From Canada.</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
